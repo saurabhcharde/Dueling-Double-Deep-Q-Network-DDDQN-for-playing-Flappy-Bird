@@ -1,0 +1,7 @@
+1. Python Interpreter (https://www.python.org/)
+2. Anaconda Package Manager (https://www.anaconda.com/)
+3. Keras Deep Learning Framework (https://keras.io/)
+4. Tensorflow Machine Learning Framework (https://www.tensorflow.org/)
+5. Pygame Learning Environment (http://pygame-learning-environment.readthedocs.io/en/latest/)
+6. Matplotlib (https://matplotlib.org/)
+7. Spyder IDE (http://pythonhosted.org/spyder/)
